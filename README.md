@@ -1,0 +1,2 @@
+# blog
+blogapp using django
